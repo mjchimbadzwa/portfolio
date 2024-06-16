@@ -15,9 +15,9 @@ BTech Industrial and Manufacturing Engineering degree
 ### Project 1: Sales performance analysis
 
 ##### Description
-The project aim was to analyse, visualize and draw some insights from supply chain analytics and global superstore datasets.
-Wrote SQL queries and DAX expressions for the supply chain analytics
-Designed a dashboard in Power Bi to visualize some of the trends 
+- The project aim was to analyse, visualize and draw some insights from supply chain analytics and global superstore datasets.
+- Wrote SQL queries and DAX expressions for the supply chain analytics
+- Designed a dashboard in Power Bi to visualize some of the trends 
 
 #### Tools 
 Ms Excel, SQL, MS Power BI 
@@ -26,9 +26,9 @@ Ms Excel, SQL, MS Power BI
 ### Project 2: ML Loan classification 
 
 #### Description 
-Perfomed exploratory data analysis to understand the data, wrangled and transformed the data in order to prepare it for machine learning modeling
-Used Auto ML to check the performance of various classifiers 
-Hyper tuned the best performing model and serialized it for production 
+- Perfomed exploratory data analysis to understand the data, wrangled and transformed the data in order to prepare it for machine learning modeling
+- Used Auto ML to check the performance of various classifiers 
+- Hyper tuned the best performing model and serialized it for production 
 
 #### Tools 
 Jupyter notebook, Python, pandas, Scikit_learn, Machine learning classifiers 
