@@ -5,11 +5,15 @@
 - [Education](#education)
 - [Projects](#projects)
   
-  1. [Project 1: Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
-  2. [Project 2: ML Loan classification](https://github.com/mjchimbadzwa/ML-Classification-project) 
+  1. [Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
+  2. [ML Loan classification](https://github.com/mjchimbadzwa/ML-Classification-project) 
 
 ## Skills
-Python, SQL, MS Excel, MS Power BI, Machine Learning
+- Python
+- SQL
+- MS Excel
+- MS Power BI
+- Machine Learning
 
 ## Education
 
