@@ -1,6 +1,7 @@
 # Data Analyst
 
-## Technical Skills: Python, SQL, MS Excel, MS Power BI, MS PowerPoint,Machine Learning
+## Technical Skills: 
+Python, SQL, MS Excel, MS Power BI, MS PowerPoint,Machine Learning
 
 ## Education
 
@@ -12,7 +13,7 @@ BTech Industrial and Manufacturing Engineering degree
 
 ## Projects 
 
-## [Project 1: Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
+## [Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
 
 ### Description
 - The project aim was to analyse, visualize and draw some insights 
@@ -34,7 +35,7 @@ SQL queries and Power BI DAX expressions were used to analyse data
 ### Results and findings 
 
 
-## [Project 2: ML Loan classification](https://github.com/mjchimbadzwa/ML-Classification-project) 
+## [ML Loan classification](https://github.com/mjchimbadzwa/ML-Classification-project) 
 
 ### Description 
 - Perfomed exploratory data analysis to understand the data, wrangled and transformed the data in order to prepare it for machine learning modeling
