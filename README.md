@@ -1,6 +1,5 @@
 # Data science portfolio
 
-## Table of contents
 - [Technical Skills](#skills)
 - [Education](#education)
 - [Projects](#projects)
