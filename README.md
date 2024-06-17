@@ -4,7 +4,7 @@
 - [Technical Skills](#skills)
 - [Education](#education)
 - [Projects](#projects)
-  1. [Sales performace analysis](Project 1: Sales performance analysis](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects))
+  1. [Sales performace analysis](Project 1: Sales performance analysis)
 
 ## Skills
 Python, SQL, MS Excel, MS Power BI, Machine Learning
