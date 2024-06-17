@@ -4,7 +4,7 @@
 - [Technical Skills](#skills)
 - [Education](#education)
 - [Projects](#projects)
-  1. [Sales performace analysis](#[Project 1: Sales performance analysis](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
+  1. [Project 1: Sales performance analysis](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
   2. [ML Loan classification](#project 2: ml loan classification)
 
 ## Skills
