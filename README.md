@@ -24,7 +24,7 @@ BTech Industrial and Manufacturing Engineering degree
 Ms Excel, SQL, MS Power BI 
 
 
-##[Project 2: ML Loan classification]( ) 
+## [Project 2: ML Loan classification](https://github.com/mjchimbadzwa/ML-Classification-project) 
 
 ### Description 
 - Perfomed exploratory data analysis to understand the data, wrangled and transformed the data in order to prepare it for machine learning modeling
