@@ -1,7 +1,7 @@
 # Data Analyst
 
-## Technical Skills: 
-Python, SQL, MS Excel, MS Power BI, MS PowerPoint,Machine Learning
+## Technical Skills:
+Python, SQL, MS Excel, MS Power BI, MS PowerPoint, Machine Learning
 
 ## Education
 
