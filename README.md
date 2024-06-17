@@ -4,7 +4,8 @@
 - [Technical Skills](#skills)
 - [Education](#education)
 - [Projects](#projects)
-  1. [Sales performace analysis](Project 1: Sales performance analysis)
+  1. [Sales performace analysis](#project 1: sales performance analysis)
+  2. [ML Loan classification](#project 2: ml loan classification)
 
 ## Skills
 Python, SQL, MS Excel, MS Power BI, Machine Learning
