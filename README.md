@@ -21,7 +21,7 @@ BTech Industrial and Manufacturing Engineering degree
 
 ## Projects 
 
-## [Project 1: Sales performance analysis](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
+## [Project 1: Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
 
 ### Description
 - The project aim was to analyse, visualize and draw some insights from supply chain analytics and global superstore datasets.
