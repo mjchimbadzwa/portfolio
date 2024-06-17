@@ -34,4 +34,5 @@ Ms Excel, SQL, MS Power BI
 ### Tools 
 Jupyter notebook, Python, pandas, Scikit_learn, Machine learning classifiers 
 
-
+### Model evaluations 
+![](https://github.com/mjchimbadzwa/portfolio/blob/main/ML%20accuracy.png)
