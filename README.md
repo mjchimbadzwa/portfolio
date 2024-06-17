@@ -1,18 +1,6 @@
-# Data science portfolio
+# Data Analyst
 
-- [Technical Skills](#skills)
-- [Education](#education)
-- [Projects](#projects)
-  
-  1. [Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
-  2. [ML Loan classification](https://github.com/mjchimbadzwa/ML-Classification-project) 
-
-## Skills
-- Python
-- SQL
-- MS Excel
-- MS Power BI
-- Machine Learning
+## Technical Skills: Python, SQL, MS Excel, MS Power BI, MS PowerPoint,Machine Learning
 
 ## Education
 
@@ -27,12 +15,23 @@ BTech Industrial and Manufacturing Engineering degree
 ## [Project 1: Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
 
 ### Description
-- The project aim was to analyse, visualize and draw some insights from supply chain analytics and global superstore datasets.
+- The project aim was to analyse, visualize and draw some insights 
 - Wrote SQL queries and DAX expressions for the supply chain analytics
-- Designed a dashboard in Power Bi to visualize some of the trends 
+- Designed a dashboard in Power Bi to visualize some of the trends
+
+### Data source  
+Global superstore and supply chain analyticsdDatasets were obtained from Kaggle.
 
 ### Tools 
 Ms Excel, SQL, MS Power BI 
+
+### Data cleaning 
+Initial data cleaning was done in MS EXcel, it included removing blanks, correcting the data formats, removing duplicates
+
+### Data analysis 
+SQL queries and Power BI DAX expressions were used to analyse data 
+
+### Results and findings 
 
 
 ## [Project 2: ML Loan classification](https://github.com/mjchimbadzwa/ML-Classification-project) 
