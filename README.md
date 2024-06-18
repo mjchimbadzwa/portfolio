@@ -11,21 +11,22 @@ Artificial Intelligence Engineering Masters Program
 BTech Industrial and Manufacturing Engineering degree                
 - Harare Institute of Technology, Zw (Aug 2006 - May 2010)
 
-## [Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
-
 ## Projects 
+
+## [Supply chain analytics](https://github.com/mjchimbadzwa/Supply-Chain-Analytics)
+
 - [Supply chain analytics using SQL](https://github.com/mjchimbadzwa/Supply-Chain-Analytics/blob/main/supply%20chain%20analytics/Supply%20chain%20analytics.pdf)
 - Sales performance analysis using MS Power BI
 - Sales forecasting using Machine Learning 
 
 
 ### Description
-- The project aim was to analyse, visualize and draw some insights 
+- The project aim was to analyse, visualize and draw some insights from supply chain data
 - Wrote SQL queries and DAX expressions for the supply chain analytics
-- Designed a dashboard in Power Bi to visualize some of the trends
+- Designed a dashboard in Power BI to visualize some of the trends
 
 ### Data source  
-Global superstore and supply chain analyticsdDatasets were obtained from Kaggle.
+The supply chain analytics datasets was obtained from Kaggle.
 
 ### Tools 
 Ms Excel, SQL, MS Power BI 
@@ -50,4 +51,4 @@ SQL queries and Power BI DAX expressions were used to analyse data
 Jupyter notebook, Python, pandas, Scikit_learn, Machine learning classifiers 
 
 ### Model evaluations 
-![](https://github.com/mjchimbadzwa/portfolio/blob/main/ML%20accuracy.png)
+!(https://github.com/mjchimbadzwa/portfolio/blob/main/ML%20accuracy.png)
