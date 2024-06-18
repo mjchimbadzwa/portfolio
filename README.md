@@ -54,4 +54,4 @@ SQL queries and Power BI DAX expressions were used to analyse data
 Jupyter notebook, Python, pandas, Scikit_learn, Machine learning classifiers 
 
 ### Model evaluations 
-![](https://github.com/mjchimbadzwa/portfolio/blob/main/ML%20accuracy.png)
+![](images/ML%20accuracy.png)
