@@ -9,7 +9,7 @@ Artificial Intelligence Engineering Masters Program
 - Simplilearn (May 2021 - April 2022)
 
 BTech Industrial and Manufacturing Engineering degree                
-- Harare Institute of Technology, Zw (Aug 2006 - May 2010)
+- Harare Institute of Technology, ZW (Aug 2006 - May 2010)
 
 ## Projects 
 
@@ -51,7 +51,7 @@ SQL queries and Power BI DAX expressions were used to analyse data
 - Hyper tuned the best performing model and serialized it for production 
 
 ### Tools 
-Jupyter notebook, Python, pandas, Scikit_learn, Machine learning classifiers 
+Jupyter notebook, Python, Pandas, Scikit_learn, Machine learning classifiers 
 
 ### Model evaluations 
 ![](images/ML%20accuracy.png)
