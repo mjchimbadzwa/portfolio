@@ -16,7 +16,7 @@ BTech Industrial and Manufacturing Engineering degree
 ## [Supply chain analytics](https://github.com/mjchimbadzwa/Supply-Chain-Analytics)
 
 - [Supply chain analytics using SQL](https://github.com/mjchimbadzwa/Supply-Chain-Analytics/blob/main/supply%20chain%20analytics/Supply%20chain%20analytics.pdf)
-- Sales performance analysis using MS Power BI
+- [Sales performance analysis using MS Power BI](https://github.com/mjchimbadzwa/Supply-Chain-Analytics/blob/main/supply%20chain%20analytics/Sales%20performance%20analysis.pbix)
 - Sales forecasting using Machine Learning 
 
 
