@@ -11,12 +11,13 @@ Artificial Intelligence Engineering Masters Program
 BTech Industrial and Manufacturing Engineering degree                
 - Harare Institute of Technology, Zw (Aug 2006 - May 2010)
 
+## [Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
+
 ## Projects 
-- [Supply chain analytics using SQL]
+- [Supply chain analytics using SQL](https://github.com/mjchimbadzwa/Supply-Chain-Analytics/blob/main/supply%20chain%20analytics/Supply%20chain%20analytics.pdf)
 - Sales performance analysis using MS Power BI
 - Sales forecasting using Machine Learning 
 
-## [Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
 
 ### Description
 - The project aim was to analyse, visualize and draw some insights 
