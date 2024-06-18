@@ -12,6 +12,9 @@ BTech Industrial and Manufacturing Engineering degree
 - Harare Institute of Technology, Zw (Aug 2006 - May 2010)
 
 ## Projects 
+- [Supply chain analytics using SQL]
+- Sales performance analysis using MS Power BI
+- Sales forecasting using Machine Learning 
 
 ## [Supply chain analytics](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects)
 
