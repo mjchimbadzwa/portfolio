@@ -6,10 +6,10 @@ Python, SQL, MS Excel, MS Power BI, MS PowerPoint, Machine Learning
 ## Education
 
 Artificial Intelligence Engineering Masters Program
-- Simplilearn (May 2021 - April 2022)
+- Simplilearn 
 
 BTech Industrial and Manufacturing Engineering degree                
-- Harare Institute of Technology, ZW (Aug 2006 - May 2010)
+- Harare Institute of Technology, ZWE
 
 ## Projects 
 
